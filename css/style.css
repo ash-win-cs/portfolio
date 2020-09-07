@@ -42,14 +42,28 @@ body {
   font-family: sans-serif, Geneva, Tahoma;
 }
 
+.intro .row button {
+  border-radius: 50px;
+}
+
 .intro .row img {
   padding-top: 20%;
   width: 100%;
   height: 500px;
   max-width: 400px;
+  -webkit-box-shadow: 10px;
+          box-shadow: 10px;
 }
 
 .about {
+  padding: 5% 0%;
   background: #FEFFFF;
+  text-align: justify;
+}
+
+.experience {
+  padding: 5% 0%;
+  background: #3AAFA9;
+  text-align: justify;
 }
 /*# sourceMappingURL=style.css.map */
