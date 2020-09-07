@@ -1,0 +1,24 @@
+{
+  "Name": "Ashwin C S",
+  "Mobile": 7559055760,
+  "Email": "ashwincsuresh@gmail.com",
+  "LinkedIN": "linkedin.com/in/ashwin-c-s",
+  "About": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit exercitationem repudiandae voluptas, vitae expedita, sed recusandae quas nesciunt aliquam, natus totam impedit omnis neque enim minus deleniti voluptatibus dignissimos sit.",
+  "internship": {
+    "xyz1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit exercitationem repudiandae voluptas,",
+    "xyz2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit exercitationem repudiandae voluptas,"
+  },
+  "Projects": {
+    "proj1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit exercitationem repudiandae voluptas,",
+    "proj2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit exercitationem repudiandae voluptas,"
+  },
+  "Workshop": {
+    "work1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit exercitationem repudiandae voluptas,",
+    "work2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit exercitationem repudiandae voluptas,"
+  },
+  "Moocs": {
+    "mooc1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit exercitationem repudiandae voluptas,",
+    "mooc2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit exercitationem repudiandae voluptas,"
+  },
+  "Skills": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit exercitationem repudiandae voluptas,"
+}
