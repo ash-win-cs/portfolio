@@ -6,21 +6,21 @@ $color5 : #FEFFFF;
 
 
 body{
-  background: $color2;  
+  background: $color5;  
 }
 
 .nav-wrapper{
   background: #1A1A1D;
 }
 .intro{
-  height: 620px;
+  // height: 620px;
   background: $color3;
   .row{
     display: flex;
 
     .column{
       flex: 50%;
-      padding: 3px;
+      padding: 50px;
       float: right;
     }
     @media screeen and (max-width:500px){
@@ -40,8 +40,11 @@ body{
       font-family: sans-serif, Geneva, Tahoma;
   
     }
+    button{
+
+    }
     img{
-      padding-top: 25%; 
+      padding-top: 20%; 
       width: 100%;
       height: 500px;
       max-width: 400px;
